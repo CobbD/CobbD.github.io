@@ -17,14 +17,6 @@ My research interests lie at the intersection of security and machine learning, 
 - **Distributed System Security and Privacy**: secure aggregation, model protection, and privacy-preserving computation.
 - **Trustworthy AI**: building machine learning systems that are robust, private, and dependable in real-world deployments.
 
-## Selected First-author Papers
-
-1. **Qihao Dong**, Yansong Gao, Chunyi Zhou, Shengyuan Yang, Boyu Kuang, and Anmin Fu. "SmartFL: Simple majority rule based Byzantine-robust federated learning." *Information Fusion*, 2026.
-2. **Qihao Dong**, Zhiyang Dai, Yansong Gao, Yifeng Zheng, Anmin Fu, and Willy Susilo. "FORCE: Byzantine-Resilient Decentralized Federated Learning via Game-Theoretic Contribution Aggregation." *IEEE Transactions on Information Forensics and Security*, 2026.
-3. **Qihao Dong**, Yang Bai, Mang Su, Yansong Gao, and Anmin Fu. "DRIFT: DCT-based robust and intelligent federated learning with trusted privacy." *Neurocomputing*, 2025.
-4. **Qihao Dong**, Shengyuan Yang, Zhiyang Dai, Yansong Gao, Shang Wang, Yuan Cao, Anmin Fu, and Willy Susilo. "CareFL: Contribution Guided Byzantine-Robust Federated Learning." *IEEE Transactions on Information Forensics and Security*, 2024.
-5. **Qihao Dong**, Xu Zheng, Anmin Fu, Mang Su, Lei Zhou, and Shui Yu. "DMRA: Model Usability Detection Scheme Against Model-Reuse Attacks in the Internet of Things." *IEEE Internet of Things Journal*, 2023.
-
 ## Education
 
 - Ph.D. in Cyber Security, Nanjing University of Science and Technology, 2026.
