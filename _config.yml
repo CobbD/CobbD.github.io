@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Associate Professor at the School of Information Technology and Artificial Intelligence, Zhejiang University of Finance and Economics"
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University of Finance and Economics"
+  employer         : # 工作单位不再显示在侧边栏
   uri              : # URL
   email            : "dongqh@zufe.edu.cn"
 
