@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the School of Information Technology and Artificial Intelligence, Zhejiang University of Finance and Economics (浙江财经大学信息技术与人工智能学院). I received my Ph.D. in Cyber Security from Nanjing University of Science and Technology in 2026, and was a visiting scholar at the University of Technology Sydney from April 2024 to April 2025.
+I am a Lecturer at the School of Information Technology and Artificial Intelligence, Zhejiang University of Finance and Economics (浙江财经大学信息技术与人工智能学院). I received my Ph.D. in Cyber Security from Nanjing University of Science and Technology in 2026, and was a visiting scholar at the University of Technology Sydney from April 2024 to April 2025.
 
 My research interests lie at the intersection of security and machine learning, with a focus on federated learning security (attack and defense), distributed system security and privacy, and Byzantine robustness. I have been serving as a reviewer for leading journals and conferences such as IEEE TIFS, IEEE TNNLS, IEEE TCE, IEEE TITS, WWW, and ICDCS.
 
